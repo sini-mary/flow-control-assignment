@@ -1,11 +1,8 @@
-import kotlin.concurrent.fixedRateTimer
 
 fun main() {
 var Institute = "akirachix"
-  println(Institute[1])
-  println(Institute[3])
-  println(Institute[4])
-  
+  println(Institute[1]+" " +Institute[3]+Institute[4])
+
 
 
 }
